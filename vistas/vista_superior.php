@@ -12,17 +12,22 @@
 </head>
 
 <menu>
-    
+    <div class="menu_izquierdo"> 
+      <img class="logo" src="./img/fondo.png" alt="fondo">    
 
-    <div>
-      <div>   
-      <a href="./">inicio</a>   
-      <a href="./shonen.php">shonen</a> 
-      <a href="./figuras.php">figuras</a> 
-      <a href="./alimentos.php">alimentos</a>  
+    </div>
+
+         
+
+    <div class="menu_derecho">
+        <div class="menu_normal">
+         <a href="./">inicio</a>   
+         <a href="./shonen.php">shonen</a> 
+         <a href="./figuras.php">figuras</a> 
+             <a href="./alimentos.php">alimentos</a>  
 
 
-      </div>
+        </div>
     </div>
 
 
