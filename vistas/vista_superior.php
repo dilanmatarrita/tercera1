@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html lang="Español">
 
@@ -8,3 +10,20 @@
 <link rel="stylesheet" href="./css/main.css">
 
 </head>
+
+<menu>
+    
+
+    <div>
+      <div>   
+      <a href="./">inicio</a>   
+      <a href="./shonen.php">shonen</a> 
+      <a href="./figuras.php">figuras</a> 
+      <a href="./alimentos.php">alimentos</a>  
+
+
+      </div>
+    </div>
+
+
+</menu>
