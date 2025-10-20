@@ -22,7 +22,7 @@
               <span></span> 
             </div> 
     
-           <div class="menu_normal"> 
+           <div class="menu-normal"> 
               <a href="./">inicio</a> 
               <a href="./shonen.php">shonen</a> 
               <a href="./figuras.php">figuras</a> 
