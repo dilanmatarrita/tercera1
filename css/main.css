@@ -29,7 +29,7 @@ menu {
    
    
 .menu_derecho { 
-   width: 1900px; 
+   width: 2000px; 
    height: 60px; 
    display: flex; 
    flex-direction: row; 
@@ -55,7 +55,7 @@ menu {
 
 } 
 
-@media screen and (max-width: 800px) { 
+@media screen and (max-width: 1000px) { 
    
    .hamburger-icon { 
    
@@ -92,9 +92,11 @@ menu {
 }
 
 .shonen-spy{
+  
    display: flex;
    justify-content: center;
    align-items: center;
-   margin-top: 20px;
+   margin-top: 40px;
 
 }
+

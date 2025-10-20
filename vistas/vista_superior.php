@@ -11,6 +11,7 @@
 
 <menu> 
         <div class="menu_izquierdo"> 
+        
             <img class="logo" src="./img/fondo.png" alt="fondo"> 
         </div> 
      
