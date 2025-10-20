@@ -1,7 +1,5 @@
 <?php require_once "./vistas/vista_superior.php"?>
 
-<div class="shonen-spy"> 
-            <img class="spy" src="./img/spy.png" alt="spy"> 
-        </div> 
+esta es la pagina de josei
 
 <?php require_once "./vistas/vista_inferior.php"?>

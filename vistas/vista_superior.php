@@ -24,10 +24,12 @@
     
            <div class="menu-normal"> 
               <a href="./">inicio</a> 
-              <a href="./shonen.php">shonen</a> 
+              <a href="./categorias.php">categorias</a> 
               <a href="./figuras.php">figuras</a> 
-              <a href="./alimentos.php">alimentos</a> 
+              <a href="./alimentos.php">alimentos</a>  
+              <a href="./cosplay.php">cosplay</a>
               <a href="./contacto.php">contacto</a> 
+
            </div> 
         </div> 
    </div> 
