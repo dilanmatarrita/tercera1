@@ -1,4 +1,4 @@
-console.log("cards cargado");
+console.log("cargando cards");
 
 const datacards = [
     {
@@ -21,7 +21,7 @@ const datacards = [
         insertdata: function (_self){
             datacards.map(function(item, index){
 
-                document.querySelector('.card-list').insertAdjacentHTML('beforeend', _self.tplcard(item, index));
+                document.querySelector('.card-list').insertAdjacentHTML('beforeend', _self.tplcardItem(item, index));
             })
         },
 
